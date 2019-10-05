@@ -1,5 +1,5 @@
 #claim the basic image
-FROM python:3onbuild
+FROM python:3
 
 #add the script 
 ADD my_script.py /
